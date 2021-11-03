@@ -14,3 +14,10 @@
 
 ### Interpretation 1.1
 - From the above plot, it can be clearly seen that cluster 0 is our biggest set of customers closely followed by cluster 3
+
+## Exploring the campaigns event
+![Exploring the Campaign Events](https://user-images.githubusercontent.com/68490591/140045710-b539e98f-7468-4305-8e9a-57eb3cf66605.png)
+
+### Interpretation 1.2
+- There has not been an overwhelming response to the campaigns so far except (campaign 1). Very few participants overall
+- Moreover, no one took part in all 5 of them. Perphaps, better-targets and well-planned campaigns are required to boost sales.
