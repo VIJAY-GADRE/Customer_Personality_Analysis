@@ -42,7 +42,7 @@
 ![9](https://user-images.githubusercontent.com/68490591/140046310-158bce62-87b2-440f-b937-e03c35b7f165.png)
 
 
-###Interpretation 2
+### Interpretation 2
 - Cluster 0:
 -- Are definitely not a parent
 -- At the max there are only 2 members in the family
