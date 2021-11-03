@@ -21,3 +21,10 @@
 ### Interpretation 1.2
 - There has not been an overwhelming response to the campaigns so far except (campaign 1). Very few participants overall
 - Moreover, no one took part in all 5 of them. Perphaps, better-targets and well-planned campaigns are required to boost sales.
+
+## Exploring the Number of Deals
+![Exploring the Number of Deals](https://user-images.githubusercontent.com/68490591/140045913-0676a48f-48e6-46be-8b6d-a98177fe46ed.png)
+
+### Interpretation 1.3
+- Unlike campaigns, the deals offered did well. It has best outcome with cluster 2 and 3.
+- However, our star customers, cluster 0, are not much into the deals. Nothing seems to attract cluster 1 overwhelmingly.
