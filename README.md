@@ -43,29 +43,29 @@
 
 
 ### Interpretation 2
-- Cluster 0:
--- Are definitely not a parent
--- At the max there are only 2 members in the family
--- A slightly Majority of couples over single person
--- Span all ages
--- A high income group
+#### Cluster 0:
+- Are definitely not a parent
+- At the max there are only 2 members in the family
+- A slightly Majority of couples over single person
+- Span all ages
+- A high income group
 
-- Cluster 1:
--- The Majority of these peoples are parents
--- At the max are 3 members in the family
--- They majorily have one kid (and not teenagers, typically)
--- Relatively
+#### Cluster 1:
+- The Majority of these peoples are parents
+- At the max are 3 members in the family
+- They majorily have one kid (and not teenagers, typically)
+- Relatively
 
-- Cluster 2:
--- They are definitely a parent
--- At the max are 5 members in the family and at least 2
--- Majority of them have a teenager at home
--- Relatively older
--- A lower income group
+#### Cluster 2:
+- They are definitely a parent
+- At the max are 5 members in the family and at least 2
+- Majority of them have a teenager at home
+- Relatively older
+- A lower income group
 
-- Cluster 3:
--- Are definitely a parent
--- At the max have 4 members in the family and at least 2
--- Single Parent are a subset of this group
--- Most have a teenegar at home
--- Relatively older
+#### Cluster 3:
+- Are definitely a parent
+- At the max have 4 members in the family and at least 2
+- Single Parent are a subset of this group
+- Most have a teenegar at home
+- Relatively older
