@@ -28,3 +28,44 @@
 ### Interpretation 1.3
 - Unlike campaigns, the deals offered did well. It has best outcome with cluster 2 and 3.
 - However, our star customers, cluster 0, are not much into the deals. Nothing seems to attract cluster 1 overwhelmingly.
+
+
+## Profiling - Who is our star customers
+![1](https://user-images.githubusercontent.com/68490591/140046286-081b3435-f0af-4664-a9e7-fb3dbdf48708.png) ![2](https://user-images.githubusercontent.com/68490591/140046292-24848039-ce6a-4ff4-892e-763e3cc6755f.png)
+
+![3](https://user-images.githubusercontent.com/68490591/140046295-fcdbd8b0-1b6b-4e39-8f0e-a09f09bd021b.png) ![4](https://user-images.githubusercontent.com/68490591/140046298-e2f3b69d-a01d-4836-b33e-0f4b053d6c30.png)
+
+![5](https://user-images.githubusercontent.com/68490591/140046303-da2c2cd0-45d1-4166-9306-088a8ccd8abb.png) ![6](https://user-images.githubusercontent.com/68490591/140046306-070295ee-42e8-4a1b-90f7-ba91571a85ff.png)
+
+![7](https://user-images.githubusercontent.com/68490591/140046307-291b1cf8-d9fb-4a2f-b409-691297dc44c8.png) ![8](https://user-images.githubusercontent.com/68490591/140046308-ece6aef4-f60c-4f38-8387-0bcecd2c8ece.png) 
+
+![9](https://user-images.githubusercontent.com/68490591/140046310-158bce62-87b2-440f-b937-e03c35b7f165.png)
+
+
+###Interpretation 2
+- Cluster 0:
+-- Are definitely not a parent
+-- At the max there are only 2 members in the family
+-- A slightly Majority of couples over single person
+-- Span all ages
+-- A high income group
+
+- Cluster 1:
+-- The Majority of these peoples are parents
+-- At the max are 3 members in the family
+-- They majorily have one kid (and not teenagers, typically)
+-- Relatively
+
+- Cluster 2:
+-- They are definitely a parent
+-- At the max are 5 members in the family and at least 2
+-- Majority of them have a teenager at home
+-- Relatively older
+-- A lower income group
+
+- Cluster 3:
+-- Are definitely a parent
+-- At the max have 4 members in the family and at least 2
+-- Single Parent are a subset of this group
+-- Most have a teenegar at home
+-- Relatively older
